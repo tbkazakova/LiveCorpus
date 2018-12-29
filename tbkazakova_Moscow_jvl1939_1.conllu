@@ -1,0 +1,229 @@
+jvl@
+
+# sent_id = 35
+# text = я / род...
+1	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	род...	родитель	NOUN	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+jvl@
+
+# sent_id = 37
+# text = родители мои жили на Сретенке / и я тоже там родилась
+1	родители	родитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	_	_	_
+2	мои	мой	DET	_	Case=Nom|Number=Plur	_	_	_	_
+3	жили	жить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+4	на	на	ADP	_	_	_	_	_	_
+5	Сретенке	Сретенка	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	_
+6	/	/	PUNCT	_	_	_	_	_	_
+7	и	и	CCONJ	_	_	_	_	_	_
+8	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+9	тоже	тоже	!CCONJ	_	_	_	_	_	_
+10	там	там	ADV	_	Degree=Pos	_	_	_	_
+11	родилась	родиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	SpacesAfter=\r\n\r\n
+
+jvl@
+
+# sent_id = 39
+# text = вот
+1	вот	вот	PART	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+jvl@
+
+# sent_id = 41
+# text = дом м а
+1	дом	дом	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+2	м	м	INTJ	_	_	_	_	_	_
+3	а	а	INTJ	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+jvl@
+
+# sent_id = 43
+# text = ну если кто знает / кинотеатр "Урал" раньше был на Сретенке / и вот напротив него / стоит бо...
+1	ну	ну	PART	_	_	_	_	_	_
+2	если	если	SCONJ	_	_	_	_	_	_
+3	кто	кто	PRON	_	Case=Nom	_	_	_	_
+4	знает	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+5	/	/	PUNCT	_	_	_	_	_	_
+6	кинотеатр	кинотеатр	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+7	"	"	PUNCT	_	_	_	__	_	SpaceAfter=No
+8	Урал	Урал	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+9	"	"	PUNCT	_	_	_	_	_	_
+10	раньше	рано	ADV	_	Degree=Cmp	_	_	_	_
+11	был	быть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+12	на	на	ADP	_	_	_	_	_	_
+13	Сретенке	Сретенка	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	_
+14	/	/	PUNCT	_	_	_	_	_	_
+15	и	и	CCONJ	_	_	_	_	_	_
+16	вот	вот	PART	_	_	_	_	_	_
+17	напротив	напротив	ADP	_	_	_	_	_	_
+18	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+19	/	/	PUNCT	_	_	_	_	_	_
+20	стоит	стоять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+21	бо...	большой	ADJ	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+jvl@
+
+# sent_id = 45
+# text = большой дом каменный / пятиэтажный / с двух сторон / с двух сторон у этого дома / такие наверху / полукруг / полукруглые сооружения / и там тоже люди ж жили / тоже жили мы тоже жили на пятом этаже / и у нас был вход ещё в это сооружение и там тоже люди жили очень интересный дом и построен он был в девятнадцатом веке
+1	большой	большой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+2	дом	дом	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+3	каменный	каменный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+4	/	/	PUNCT	_	_	_	_	_	_
+5	пятиэтажный	пятиэтажный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+6	/	/	PUNCT	_	_	_	_	_	_
+7	с	с	ADP	_	_	_	_	_	_
+8	двух	два	NUM	_	Case=Gen	_	_	_	_
+9	сторон	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	_	_	_	_
+10	/	/	PUNCT	_	_	_	_	_	_
+11	с	с	ADP	_	_	_	_	_	_
+12	двух	два	NUM	_	Case=Gen	_	_	_	_
+13	сторон	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	_	_	_	_
+14	у	у	ADP	_	_	_	_	_	_
+15	этого	этот	DET	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+16	дома	дом	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+17	/	/	PUNCT	_	_	_	_	_	_
+18	такие	такой	DET	_	Case=Nom|Number=Plur	_	_	_	_
+19	наверху	наверху	ADV	_	Degree=Pos	_	_	_	_
+20	/	/	PUNCT	_	_	_	_	_	_
+21	полукруг...	полукруглый	ADJ	_	_	_	_	_	_
+22	/	/	PUNCT	_	_	_	_	_	_
+23	полукруглые	полукруглый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	_
+24	сооружения	сооружение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	_	_	_	_
+25	/	/	PUNCT	_	_	_	_	_	_
+26	и	и	CCONJ	_	_	_	_	_	_
+27	там	там	ADV	_	Degree=Pos	_	_	_	_
+28	тоже	тоже	PART	_	_	_	_	_	_
+29	люди	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	_	_	_
+30	ж	же	PART	_	_	_	_	_	_
+31	жили	жить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+32	/	/	PUNCT	_	_	_	_	_	_
+33	тоже	тоже	CCONJ	_	_	_	_	_	_
+34	жили	жить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+35	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	_
+36	тоже	тоже	CCONJ	_	_	_	_	_	_
+37	жили	жить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+38	на	на	ADP	_	_	_	_	_	_
+39	пятом	пятый	ANUM	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+40	этаже	этаж	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	_
+41	/	/	PUNCT	_	_	_	_	_	_
+42	и	и	CCONJ	_	_	_	_	_	_
+43	у	у	ADP	_	_	_	_	_	_
+44	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1	_	_	_	_
+45	был	быть	!VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+46	вход	вход	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+47	ещё	!ещё	ADV	_	Degree=Pos	_	_	_	_
+48	в	в	ADP	_	_	_	_	_	_
+49	это	этот	DET	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+50	сооружение	сооружение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+51	и	и	CCONJ	_	_	_	_	_	_
+52	там	там	ADV	_	Degree=Pos	_	_	_	_
+53	тоже	тоже	CCONJ	_	_	_	_	_	_
+54	люди	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	_	_	_
+55	жили	жить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+56	очень	очень	ADV	_	Degree=Pos	_	_	_	_
+57	интересный	интересный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+58	дом	дом	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+59	и	и	CCONJ	_	_	_	_	_	_
+60	построен	построить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	_	_	_	_
+61	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+62	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+63	в	в	ADP	_	_	_	_	_	_
+64	девятнадцатом	девятнадцатый	ANUM	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+65	веке	век	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n\r\n
+
+jvl@
+
+# sent_id = 47
+# text = сначала / и там даже наверху / эм был такой барельеф / и было написано тысяча восемьсот семьдесят шестой год / и так с двух сторон поддерживали львы
+1	сначала	сначала	ADV	_	Degree=Pos	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	и	и	CCONJ	_	_	_	_	_	_
+4	там	там	ADV	_	Degree=Pos	_	_	_	_
+5	даже	даже	PART	_	_	_	_	_	_
+6	наверху	наверху	ADV	_	Degree=Pos	_	_	_	_
+7	/	/	PUNCT	_	_	_	_	_	_
+8	эм	эм	INTJ	_	_	_	_	_	_
+9	был	быть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+10	такой	такой	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+11	барельеф	барельеф	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+12	/	/	PUNCT	_	_	_	_	_	_
+13	и	и	CCONJ	_	_	_	_	_	_
+14	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+15	написано	написать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	_	_	_	_
+16	тысяча	тысяча	NUM	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+17	восемьсот	восемьсот	NUM	_	Case=Nom	_	_	_	_
+18	семьдесят	семьдесят	NUM	_	Case=Nom	_	_	_	_
+19	шестой	шестой	ANUM	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+20	год	год	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+21	/	/	PUNCT	_	_	_	_	_	_
+22	и	и	CCONJ	_	_	_	_	_	_
+23	так	так	ADV	_	Degree=Pos	_	_	_	_
+24	с	с	ADP	_	_	_	_	_	_
+25	двух	два	NUM	_	Case=Gen	_	_	_	_
+26	сторон	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	_	_	_	_
+27	поддерживали	поддерживать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+28	львы	лев	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	_	_	_	SpacesAfter=\r\n\r\n
+
+jvl@
+
+# sent_id = 49
+# text = вот / и этот дом / потом использовался как доходный дом / там квартиры сдавали / а потом заселили / вот после революции уже были квартиры / коммунальные / очень интересные было...
+1	вот	вот	PART	_	_	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	и	и	CCONJ	_	_	_	_	_	_
+4	этот	этот	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+5	дом	дом	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+6	/	/	PUNCT	_	_	_	_	_	_
+7	потом	потом	ADV	_	Degree=Pos	_	_	_	_
+8	использовался	использоваться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|!Voice=Mid	_	_	_	_
+9	как	как	ADV	_	_	_	_	_	_
+10	доходный	доходный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+11	дом	дом	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+12	/	/	PUNCT	_	_	_	_	_	_
+13	там	там	ADV	_	Degree=Pos	_	_	_	_
+14	квартиры	квартира	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	_	_	_	_
+15	сдавали	сдавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+16	/	/	PUNCT	_	_	_	_	_	_
+17	а	а	CCONJ	_	_	_	_	_	_
+18	потом	потом	ADV	_	Degree=Pos	_	_	_	_
+19	заселили	заселить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+20	/	/	PUNCT	_	_	_	_	_	_
+21	вот	вот	PART	_	_	_	_	_	_
+22	после	после	ADP	_	_	_	_	_	_
+23	революции	революция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	_
+24	уже	уже	ADV	_	Degree=Pos	_	_	_	_
+25	были	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+26	квартиры	квартира	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	_	_	_	_
+27	/	/	PUNCT	_	_	_	_	_	_
+28	коммунальные	коммунальный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	_
+29	/	/	PUNCT	_	_	_	_	_	_
+30	очень	очень	ADV	_	Degree=Pos	_	_	_	_
+31	интересные	интересный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	_
+32	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n\r\n
+
+jvl@
+
+# sent_id = 51
+# text = к...
+1	к...	квартира	NOUN	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+jvl@
+
+# sent_id = 53
+# text = были квартиры
+1	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+2	квартиры	квартира	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	_	_	_	SpacesAfter=\r\n\r\n
+
+jvl@
+
+# sent_id = 55
+# text = вот у в нашей квартире было семь жильцов
+1	вот	вот	PART	_	_	_	_	_	_
+2	у	у	ADP	_	_	_	_	_	_
+3	в	в	ADP	_	_	_	_	_	_
+4	нашей	наш	DET	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	_
+5	квартире	квартира	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	_
+6	было	быть	!AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+7	семь	семь	NUM	_	Case=Nom	_	_	_	_
+8	жильцов	жилец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpacesAfter=\r\n\r\n
